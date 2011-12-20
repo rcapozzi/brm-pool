@@ -1,0 +1,5 @@
+BRM pool uses the Apache Pools class to pool PCM Context.
+
+// Create and build FList
+// Run the opcode using the pool. Simple, one-shot processing.
+FList r_flist = PortalContextPool.opcode(123. inflist);
